@@ -50,8 +50,6 @@ export type {
   ServerRuntimeMetaFunction,
 } from "./routeModules";
 
-export type { SerializeFrom } from "./serialize";
-
 export type { RequestHandler } from "./server";
 
 export type {

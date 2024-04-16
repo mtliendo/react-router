@@ -64,7 +64,6 @@ export type {
   HandleErrorFunction,
   PageLinkDescriptor,
   RequestHandler,
-  SerializeFrom,
   ServerBuild,
   ServerEntryModule,
   ServerRuntimeMetaArgs,
